@@ -1,0 +1,2 @@
+ErrorDocument 404 /CANVAS_2/modules/custom_error/404.html
+Options -Indexes

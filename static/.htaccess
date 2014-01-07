@@ -1,0 +1,3 @@
+ErrorDocument 403 /CANVAS_2/modules/custom_error/403.html 
+ErrorDocument 404 /CANVAS_2/modules/custom_error/404.html
+Options -Indexes
